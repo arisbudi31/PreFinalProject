@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "content": "cek lagii gessd",
+      "created_at": 1652924582047,
+      "liked": 0,
+      "isLike": false,
+      "id": 4
+    },
+    {
+      "content": "cek lagii gessd",
+      "created_at": 1652924582047,
+      "liked": 1,
+      "isLike": false,
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": [
+    {
+      "id": 1,
+      "username": "apa",
+      "email": "apa.mail.co.id",
+      "password": "lkawek"
+    },
+    {
+      "username": "ekerer",
+      "email": "alekrek@m.co",
+      "password": "aetet",
+      "id": 2
+    },
+    {
+      "username": "arisb31",
+      "email": "aris@mail.com",
+      "password": "karangsogn31",
+      "id": 3
+    },
+    {
+      "username": "asdkneg",
+      "email": "aris@m.co",
+      "password": "aelkne",
+      "id": 4
+    },
+    {
+      "username": "arisb31",
+      "email": "aris@m.co.id",
+      "password": "pwieiehr",
+      "id": 5
+    },
+    {
+      "username": "knfklwf",
+      "email": "aris@mail.com",
+      "password": "karangsong31",
+      "id": 6
+    },
+    {
+      "username": "ariser31",
+      "email": "aerer@m.co",
+      "password": "karangsong31",
+      "id": 7
+    },
+    {
+      "username": "qwewe",
+      "email": "qwew@m.c",
+      "password": "ara",
+      "id": 8
+    },
+    {
+      "username": "qwewqqwr",
+      "email": "arwr@m.c",
+      "password": "qwe",
+      "id": 9
+    },
+    {
+      "username": "asd",
+      "email": "asd@m.c",
+      "password": "asd",
+      "id": 10
+    },
+    {
+      "username": "qwe",
+      "email": "qwe2@m.c",
+      "password": "asd",
+      "id": 11
+    },
+    {
+      "username": "acv",
+      "email": "acv@m.c",
+      "password": "acv",
+      "fullname": "ACV mitarmandir",
+      "bio": "get lgp owepwonegeg",
+      "image": "",
+      "id": 12
+    },
+    {
+      "username": "aeriss98",
+      "email": "aer@g.c",
+      "fullname": "Anoniimm",
+      "bio": "no bio",
+      "image": "C:\\fakepath\\kcuing.jfif",
+      "id": 13
+    }
+  ]
+}
